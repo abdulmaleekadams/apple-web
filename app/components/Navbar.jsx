@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <header className="w-full py-5 sm:px-10 flex justify-between items-center">
+    <header className="w-full px-8 py-5 sm:px-10 flex justify-between items-center">
       <nav className="flex w-full screen-max-width">
         <Image src={appleImg} alt="Apple Logo" width={14} height={18} />
 
